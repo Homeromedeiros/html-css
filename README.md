@@ -1,7 +1,7 @@
 # html-css
  Curso HTML5 e CSS3
 
-Estou aprendendo a gerenciar meus repositórios!
+Gerenciamento básico de repositório!
 
 - <a href="https://homeromedeiros.github.io/html-css/exercicios/ex001/">Exercício 001 - Hello Word</a>
 - <a href="https://homeromedeiros.github.io/html-css/exercicios/ex002/">Exercício 002 - Parágrafos</a>
