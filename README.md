@@ -4,3 +4,13 @@
 Estou aprendendo a gerenciar meus repositórios!
 
 <a href="https://homeromedeiros.github.io/html-css/exercicios/ex001/">Executar o exercício 001</a>
+<a href="https://homeromedeiros.github.io/html-css/exercicios/ex002/">Executar o exercício 002</a>
+<a href="https://homeromedeiros.github.io/html-css/exercicios/ex001/">Executar o exercício 001</a>
+<a href="https://homeromedeiros.github.io/html-css/exercicios/ex001/">Executar o exercício 001</a>
+<a href="https://homeromedeiros.github.io/html-css/exercicios/ex001/">Executar o exercício 001</a>
+<a href="https://homeromedeiros.github.io/html-css/exercicios/ex001/">Executar o exercício 001</a>
+<a href="https://homeromedeiros.github.io/html-css/exercicios/ex001/">Executar o exercício 001</a>
+<a href="https://homeromedeiros.github.io/html-css/exercicios/ex001/">Executar o exercício 001</a>
+<a href="https://homeromedeiros.github.io/html-css/exercicios/ex001/">Executar o exercício 001</a>
+<a href="https://homeromedeiros.github.io/html-css/exercicios/ex001/">Executar o exercício 001</a>
+
