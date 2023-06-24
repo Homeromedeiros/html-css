@@ -22,4 +22,7 @@ Estou aprendendo a gerenciar meus repositórios!
 - <a href="https://homeromedeiros.github.io/html-css/exercicios/ex017/">Exercício 017 - Fontes</a>
 - <a href="https://homeromedeiros.github.io/html-css/exercicios/ex018/">Exercício 018 - Fontes cont</a>
 - <a href="https://homeromedeiros.github.io/html-css/exercicios/ex019/">Exercício 019 - Seletores</a>
+- <a href="https://homeromedeiros.github.io/html-css/exercicios/ex020/">Exercício 020 - pseudoclasse</a>
+- <a href="https://homeromedeiros.github.io/html-css/exercicios/ex021/">Exercício 021 - Caixa</a>
+- <a href="https://homeromedeiros.github.io/html-css/exercicios/ex022/">Exercício 022 - Fundo</a>
 
